@@ -17,38 +17,6 @@ I helped a friend put this together – it's fully customisable and ready to be 
 - **Fully responsive** – works on mobile and desktop. Touch swipe to navigate months.
 - **Share button** – copy link or use native share.
 
-## 📁 File Structure
-
-Place all files in a folder as shown:
-your-project/
-├── index.html # this file
-├── public/
-│ ├── audio/
-│ │ ├── beautiful.mp3 # background music
-│ │ ├── victory.mp3 # victory sound (VS game win)
-│ │ ├── quack.ogg # wrong answer sound
-│ │ └── celebrate.mp3 # celebration sound
-│ ├── img/
-│ │ ├── month1.jpeg # images for each month (1–14)
-│ │ ├── month2.jpeg
-│ │ ├── ... # all month images (see HTML for exact names)
-│ │ ├── HER.jpeg # image for VS game "Her"
-│ │ ├── duck.jpeg # opponent images
-│ │ ├── jimin.jpg
-│ │ ├── t.jpeg
-│ │ ├── rs.jpeg
-│ │ ├── Arnab.jpeg
-│ │ ├── sanjeev.jpeg
-│ │ ├── lopez.jpeg
-│ │ └── sus_cat.jpg
-│ └── video/
-│ └── somethingsomething.mp4 # video triggered by sunflower click
-└── README.md # this file
-
-
-
-> **Note:** All image and audio file names are referenced in the HTML. Replace them with your own media to personalise the site.
-
 ## 🚀 Getting Started
 
 1. **Download/clone** this repository.
